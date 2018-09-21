@@ -1,0 +1,32 @@
+_repo: Nuoruuden-tunnustuksia-Romaani_54123
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Karhinen, Hanna
+    gutenberg_agent_id: '47716'
+    url: http://www.gutenberg.org/2009/agents/47716
+creator:
+  author:
+    agent_name: Potapenko, I. N. (Ignatii Nicholaevich)
+    aliases:
+    - Potapenko, Ignatii Nicholaevich
+    - Потапенко, Игнатий Николаевич
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '5089'
+    url: http://www.gutenberg.org/2009/agents/5089
+description: ''
+gutenberg_issued: '2017-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54123'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: 'Nuoruuden tunnustuksia: Romaani'
+url: http://www.gutenberg.org/ebooks/54123
